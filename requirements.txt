@@ -1,0 +1,6 @@
+pandas==2.0.3
+chinese_calendar==1.8.0
+folium==0.17.0
+shapely==2.0.1
+scipy==1.9.3
+numpy==1.23.4
