@@ -81,5 +81,13 @@ The code for the paper "Mining individual daily commuting patterns of dockless b
 If you find this code useful in your research, please cite our paper:
 
 ```
- Mining individual daily commuting patterns of dockless bike-sharing users: A two-layer framework integrating spatiotemporal flow clustering and rule-based decision trees
+@article{zhuang2024mining,
+ title={Mining individual daily commuting patterns of dockless bike-sharing users: a two-layer framework integrating spatiotemporal flow clustering and rule-based decision trees},
+ author={Zhuang, Caigang and Li, Shaoying and Zhuang, Haoming and Liu, Xiaoping},
+ journal={Sustainable Cities and Society},
+ volume={118},
+ pages={105985},
+ year={2024},
+ publisher={Elsevier}
+}
 ```
